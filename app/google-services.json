@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844292933004",
+    "project_id": "gacademy-cc1f4",
+    "storage_bucket": "gacademy-cc1f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844292933004:android:bff6ea56393e739f6382a9",
+        "android_client_info": {
+          "package_name": "com.example.a11gacadmey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844292933004-57huibv3s1bq96ngn94phc4gb0h3cmhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN3jJmsOI8I5lClFMYwnczdt7Xk56ApMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844292933004-57huibv3s1bq96ngn94phc4gb0h3cmhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
